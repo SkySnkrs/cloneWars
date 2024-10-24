@@ -1,0 +1,45 @@
+#heading {
+    min-height: 70dvh;
+    background-color: black;
+    color: lightgray;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #F8F9FA;
+    /* min-width: 160px; */
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdown-position {
+    position: relative;
+}
+
+.dropbtn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+#greenText {
+    color: lightgreen;
+}
+
+.navBar a {
+    text-decoration: none;
+    color: black;
+}
+
+.sectionImages {
+    object-fit: cover;
+    object-position: center;
+}
