@@ -1,5 +1,5 @@
 #heading {
-    min-height: 70dvh;
+    min-height: 80dvh;
     background-color: black;
     color: lightgray;
 }
@@ -42,4 +42,14 @@
 .sectionImages {
     object-fit: cover;
     object-position: center;
+}
+
+.siteLogo {
+    height: 20em;
+    width: 20em;
+}
+
+.officePic {
+    height: 100%;
+    width: 100%;
 }
